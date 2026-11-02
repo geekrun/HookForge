@@ -1,5 +1,14 @@
 # HookForge
 
+> **Maintenance has moved to [DroidLab](https://github.com/quiaingmuarua/DroidLab).**
+> HookForge continues as the [`hookforge/` component](https://github.com/quiaingmuarua/DroidLab/tree/main/hookforge).
+> Use its [current guide](https://github.com/quiaingmuarua/DroidLab/blob/main/hookforge/README.md)
+> for builds and usage, and submit new development and issues to DroidLab.
+>
+> This standalone repository is retained as a historical source snapshot.
+> The build, runtime, CLI and testing instructions below and in its linked documents
+> describe the standalone checkout; they are not instructions for the current DroidLab checkout.
+
 Solve real Android dynamic-analysis tasks with suitable existing tools,
 scripts and HookForge capabilities. HookForge should reduce repeated
 investigation and debugging; new modules or scripts alone do not prove that
